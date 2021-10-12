@@ -1,0 +1,13 @@
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\obj\Debug\netcoreapp3.1\app.csprojAssemblyReference.cache
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\obj\Debug\netcoreapp3.1\app.AssemblyInfoInputs.cache
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\obj\Debug\netcoreapp3.1\app.AssemblyInfo.cs
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\obj\Debug\netcoreapp3.1\app.csproj.CoreCompileInputs.cache
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\bin\Debug\netcoreapp3.1\app.exe
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\bin\Debug\netcoreapp3.1\app.deps.json
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\bin\Debug\netcoreapp3.1\app.runtimeconfig.json
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\bin\Debug\netcoreapp3.1\app.runtimeconfig.dev.json
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\bin\Debug\netcoreapp3.1\app.dll
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\bin\Debug\netcoreapp3.1\app.pdb
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\obj\Debug\netcoreapp3.1\app.dll
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\obj\Debug\netcoreapp3.1\app.pdb
+C:\Users\vorzt\OneDrive\Bureau\epsi 1er a\algo(britto)\Projet_Algo_Prog_VS_Code\obj\Debug\netcoreapp3.1\app.genruntimeconfig.cache

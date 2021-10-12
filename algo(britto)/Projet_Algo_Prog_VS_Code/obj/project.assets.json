@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\vorzt\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\vorzt\\OneDrive\\Bureau\\epsi 1er a\\algo(britto)\\Projet_Algo_Prog_VS_Code\\app.csproj",
+      "projectName": "app",
+      "projectPath": "C:\\Users\\vorzt\\OneDrive\\Bureau\\epsi 1er a\\algo(britto)\\Projet_Algo_Prog_VS_Code\\app.csproj",
+      "packagesPath": "C:\\Users\\vorzt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vorzt\\OneDrive\\Bureau\\epsi 1er a\\algo(britto)\\Projet_Algo_Prog_VS_Code\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\vorzt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
